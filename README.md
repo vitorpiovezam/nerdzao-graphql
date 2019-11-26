@@ -1,6 +1,6 @@
 
 # Nerdzao GraphQL
-Esse projeto foi feito para uma talk -- demonstrado nesse [artigo](https://medium.com/@vitorpiovezam/creating-a-scalable-baas-using-graphql-with-graphcool-and-integrating-with-angular-2b2c9955b0e8)
+Esse projeto foi feito para uma talk -- demonstrado nesse [artigo](https://vitorpiovezam.ninja/blog/GraphQl-with-Graphcool)
 --, com finalidade de manipular e ler dados com GraphlL operando em serverless na plataforma Graphcool.
 Realiza queries e mutations em um determinado endpoint exemplificando o uso. 
 
